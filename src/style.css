@@ -1,0 +1,224 @@
+:root {
+  font-family: "Grandiflora One", serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  font-weight: 500;
+  color: #646cff;
+  text-decoration: inherit;
+}
+
+a:hover {
+  color: #535bf2;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+  user-select: none;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.4;
+  white-space: normal;
+  word-wrap: break-word;
+  word-break: keep-all;
+}
+
+#app {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  width: 50%;
+  box-sizing: border-box;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+
+.logo.vanilla:hover {
+  filter: drop-shadow(0 0 2em #3178c6aa);
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #1a1a1a;
+  cursor: pointer;
+  transition: border-color 0.25s;
+}
+
+button:hover {
+  border-color: #646cff;
+}
+
+button:focus,
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+
+  a:hover {
+    color: #747bff;
+  }
+
+  button {
+    background-color: #f9f9f9;
+  }
+}
+
+time.time {
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.circle-clock {
+  position: relative;
+  display: block;
+  padding-top: 100%;
+  width: 100%;
+  background-color: #fff;
+  border-radius: 50%;
+}
+
+.circle-clock::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-image:
+    radial-gradient(circle at 50% 50%, #fff 0, #fff 60%, transparent 75%, transparent 100%),
+    linear-gradient(0deg, transparent 0, transparent 49%, #0003 50%, transparent 51%, transparent 100%),
+    linear-gradient(30deg, transparent 0, transparent 49%, #0003 50%, transparent 51%, transparent 100%),
+    linear-gradient(60deg, transparent 0, transparent 49%, #0003 50%, transparent 51%, transparent 100%),
+    linear-gradient(90deg, transparent 0, transparent 49%, #0003 50%, transparent 51%, transparent 100%),
+    linear-gradient(120deg, transparent 0, transparent 49%, #0003 50%, transparent 51%, transparent 100%),
+    linear-gradient(150deg, transparent 0, transparent 49%, #0003 50%, transparent 51%, transparent 100%)
+  ;
+  border-radius: 50%;
+}
+
+.circle-clock__pointer {
+  position: absolute;
+  bottom: 50%;
+  left: 50%;
+  border: 1px solid #0009;
+  transform-origin: 50% 100%;
+  transition: transform 0.1s ease;
+}
+
+.circle-clock__pointer.circle-clock__pointer--hour {
+  border-width: 0 1px;
+  height: 40%;
+}
+
+.circle-clock__pointer.circle-clock__pointer--minute {
+  border-width: 0 1px 0 0;
+  height: 45%;
+}
+
+.circle-clock__pointer.circle-clock__pointer--second {
+  border-width: 0 1px 0 0;
+  border-color: #f309;
+  height: 50%;
+}
+
+.circle-clock__overlay {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 25%;
+  left: 0;
+  margin: auto;
+  display: block;
+  color: #000;
+  white-space: nowrap;
+  text-align: center;
+}
+
+.circle-clock__overlay::before {
+  content: '';
+  display: inline-block;
+  vertical-align: middle;
+  height: 100%;
+}
+
+.circle-clock__overlay .overlay {
+  display: inline-block;
+  vertical-align: middle;
+  white-space: normal;
+}
+
+address {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  font-style: normal;
+  font-family: malgun gothic, sans-serif;
+  color: #000;
+}
+
+@media all and (max-width: 720px) {
+  body {
+    display: block;
+    padding-top: 1.2rem;
+  }
+
+  #app {
+    height: auto;
+  }
+
+  h1 {
+    font-size: 2.4rem;
+  }
+
+  .circle-clock__overlay .overlay {
+    font-size: 1.2rem;
+  }
+}

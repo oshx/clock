@@ -1,0 +1,1448 @@
+/* 반복되는 문자열 생성으로 만든 요소 */
+
+/* 각도 미리 생성 */
+.circle-clock__pointer.circle-clock__pointer--0deg {
+  transform: rotate(0deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--1deg {
+  transform: rotate(1deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--2deg {
+  transform: rotate(2deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--3deg {
+  transform: rotate(3deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--4deg {
+  transform: rotate(4deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--5deg {
+  transform: rotate(5deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--6deg {
+  transform: rotate(6deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--7deg {
+  transform: rotate(7deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--8deg {
+  transform: rotate(8deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--9deg {
+  transform: rotate(9deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--10deg {
+  transform: rotate(10deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--11deg {
+  transform: rotate(11deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--12deg {
+  transform: rotate(12deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--13deg {
+  transform: rotate(13deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--14deg {
+  transform: rotate(14deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--15deg {
+  transform: rotate(15deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--16deg {
+  transform: rotate(16deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--17deg {
+  transform: rotate(17deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--18deg {
+  transform: rotate(18deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--19deg {
+  transform: rotate(19deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--20deg {
+  transform: rotate(20deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--21deg {
+  transform: rotate(21deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--22deg {
+  transform: rotate(22deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--23deg {
+  transform: rotate(23deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--24deg {
+  transform: rotate(24deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--25deg {
+  transform: rotate(25deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--26deg {
+  transform: rotate(26deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--27deg {
+  transform: rotate(27deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--28deg {
+  transform: rotate(28deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--29deg {
+  transform: rotate(29deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--30deg {
+  transform: rotate(30deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--31deg {
+  transform: rotate(31deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--32deg {
+  transform: rotate(32deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--33deg {
+  transform: rotate(33deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--34deg {
+  transform: rotate(34deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--35deg {
+  transform: rotate(35deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--36deg {
+  transform: rotate(36deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--37deg {
+  transform: rotate(37deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--38deg {
+  transform: rotate(38deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--39deg {
+  transform: rotate(39deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--40deg {
+  transform: rotate(40deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--41deg {
+  transform: rotate(41deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--42deg {
+  transform: rotate(42deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--43deg {
+  transform: rotate(43deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--44deg {
+  transform: rotate(44deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--45deg {
+  transform: rotate(45deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--46deg {
+  transform: rotate(46deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--47deg {
+  transform: rotate(47deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--48deg {
+  transform: rotate(48deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--49deg {
+  transform: rotate(49deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--50deg {
+  transform: rotate(50deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--51deg {
+  transform: rotate(51deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--52deg {
+  transform: rotate(52deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--53deg {
+  transform: rotate(53deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--54deg {
+  transform: rotate(54deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--55deg {
+  transform: rotate(55deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--56deg {
+  transform: rotate(56deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--57deg {
+  transform: rotate(57deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--58deg {
+  transform: rotate(58deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--59deg {
+  transform: rotate(59deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--60deg {
+  transform: rotate(60deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--61deg {
+  transform: rotate(61deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--62deg {
+  transform: rotate(62deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--63deg {
+  transform: rotate(63deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--64deg {
+  transform: rotate(64deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--65deg {
+  transform: rotate(65deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--66deg {
+  transform: rotate(66deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--67deg {
+  transform: rotate(67deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--68deg {
+  transform: rotate(68deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--69deg {
+  transform: rotate(69deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--70deg {
+  transform: rotate(70deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--71deg {
+  transform: rotate(71deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--72deg {
+  transform: rotate(72deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--73deg {
+  transform: rotate(73deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--74deg {
+  transform: rotate(74deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--75deg {
+  transform: rotate(75deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--76deg {
+  transform: rotate(76deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--77deg {
+  transform: rotate(77deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--78deg {
+  transform: rotate(78deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--79deg {
+  transform: rotate(79deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--80deg {
+  transform: rotate(80deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--81deg {
+  transform: rotate(81deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--82deg {
+  transform: rotate(82deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--83deg {
+  transform: rotate(83deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--84deg {
+  transform: rotate(84deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--85deg {
+  transform: rotate(85deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--86deg {
+  transform: rotate(86deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--87deg {
+  transform: rotate(87deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--88deg {
+  transform: rotate(88deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--89deg {
+  transform: rotate(89deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--90deg {
+  transform: rotate(90deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--91deg {
+  transform: rotate(91deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--92deg {
+  transform: rotate(92deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--93deg {
+  transform: rotate(93deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--94deg {
+  transform: rotate(94deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--95deg {
+  transform: rotate(95deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--96deg {
+  transform: rotate(96deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--97deg {
+  transform: rotate(97deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--98deg {
+  transform: rotate(98deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--99deg {
+  transform: rotate(99deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--100deg {
+  transform: rotate(100deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--101deg {
+  transform: rotate(101deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--102deg {
+  transform: rotate(102deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--103deg {
+  transform: rotate(103deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--104deg {
+  transform: rotate(104deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--105deg {
+  transform: rotate(105deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--106deg {
+  transform: rotate(106deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--107deg {
+  transform: rotate(107deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--108deg {
+  transform: rotate(108deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--109deg {
+  transform: rotate(109deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--110deg {
+  transform: rotate(110deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--111deg {
+  transform: rotate(111deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--112deg {
+  transform: rotate(112deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--113deg {
+  transform: rotate(113deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--114deg {
+  transform: rotate(114deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--115deg {
+  transform: rotate(115deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--116deg {
+  transform: rotate(116deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--117deg {
+  transform: rotate(117deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--118deg {
+  transform: rotate(118deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--119deg {
+  transform: rotate(119deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--120deg {
+  transform: rotate(120deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--121deg {
+  transform: rotate(121deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--122deg {
+  transform: rotate(122deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--123deg {
+  transform: rotate(123deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--124deg {
+  transform: rotate(124deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--125deg {
+  transform: rotate(125deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--126deg {
+  transform: rotate(126deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--127deg {
+  transform: rotate(127deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--128deg {
+  transform: rotate(128deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--129deg {
+  transform: rotate(129deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--130deg {
+  transform: rotate(130deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--131deg {
+  transform: rotate(131deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--132deg {
+  transform: rotate(132deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--133deg {
+  transform: rotate(133deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--134deg {
+  transform: rotate(134deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--135deg {
+  transform: rotate(135deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--136deg {
+  transform: rotate(136deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--137deg {
+  transform: rotate(137deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--138deg {
+  transform: rotate(138deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--139deg {
+  transform: rotate(139deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--140deg {
+  transform: rotate(140deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--141deg {
+  transform: rotate(141deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--142deg {
+  transform: rotate(142deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--143deg {
+  transform: rotate(143deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--144deg {
+  transform: rotate(144deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--145deg {
+  transform: rotate(145deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--146deg {
+  transform: rotate(146deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--147deg {
+  transform: rotate(147deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--148deg {
+  transform: rotate(148deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--149deg {
+  transform: rotate(149deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--150deg {
+  transform: rotate(150deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--151deg {
+  transform: rotate(151deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--152deg {
+  transform: rotate(152deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--153deg {
+  transform: rotate(153deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--154deg {
+  transform: rotate(154deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--155deg {
+  transform: rotate(155deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--156deg {
+  transform: rotate(156deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--157deg {
+  transform: rotate(157deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--158deg {
+  transform: rotate(158deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--159deg {
+  transform: rotate(159deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--160deg {
+  transform: rotate(160deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--161deg {
+  transform: rotate(161deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--162deg {
+  transform: rotate(162deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--163deg {
+  transform: rotate(163deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--164deg {
+  transform: rotate(164deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--165deg {
+  transform: rotate(165deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--166deg {
+  transform: rotate(166deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--167deg {
+  transform: rotate(167deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--168deg {
+  transform: rotate(168deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--169deg {
+  transform: rotate(169deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--170deg {
+  transform: rotate(170deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--171deg {
+  transform: rotate(171deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--172deg {
+  transform: rotate(172deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--173deg {
+  transform: rotate(173deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--174deg {
+  transform: rotate(174deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--175deg {
+  transform: rotate(175deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--176deg {
+  transform: rotate(176deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--177deg {
+  transform: rotate(177deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--178deg {
+  transform: rotate(178deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--179deg {
+  transform: rotate(179deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--180deg {
+  transform: rotate(180deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--181deg {
+  transform: rotate(181deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--182deg {
+  transform: rotate(182deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--183deg {
+  transform: rotate(183deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--184deg {
+  transform: rotate(184deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--185deg {
+  transform: rotate(185deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--186deg {
+  transform: rotate(186deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--187deg {
+  transform: rotate(187deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--188deg {
+  transform: rotate(188deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--189deg {
+  transform: rotate(189deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--190deg {
+  transform: rotate(190deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--191deg {
+  transform: rotate(191deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--192deg {
+  transform: rotate(192deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--193deg {
+  transform: rotate(193deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--194deg {
+  transform: rotate(194deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--195deg {
+  transform: rotate(195deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--196deg {
+  transform: rotate(196deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--197deg {
+  transform: rotate(197deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--198deg {
+  transform: rotate(198deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--199deg {
+  transform: rotate(199deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--200deg {
+  transform: rotate(200deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--201deg {
+  transform: rotate(201deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--202deg {
+  transform: rotate(202deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--203deg {
+  transform: rotate(203deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--204deg {
+  transform: rotate(204deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--205deg {
+  transform: rotate(205deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--206deg {
+  transform: rotate(206deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--207deg {
+  transform: rotate(207deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--208deg {
+  transform: rotate(208deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--209deg {
+  transform: rotate(209deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--210deg {
+  transform: rotate(210deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--211deg {
+  transform: rotate(211deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--212deg {
+  transform: rotate(212deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--213deg {
+  transform: rotate(213deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--214deg {
+  transform: rotate(214deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--215deg {
+  transform: rotate(215deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--216deg {
+  transform: rotate(216deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--217deg {
+  transform: rotate(217deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--218deg {
+  transform: rotate(218deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--219deg {
+  transform: rotate(219deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--220deg {
+  transform: rotate(220deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--221deg {
+  transform: rotate(221deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--222deg {
+  transform: rotate(222deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--223deg {
+  transform: rotate(223deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--224deg {
+  transform: rotate(224deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--225deg {
+  transform: rotate(225deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--226deg {
+  transform: rotate(226deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--227deg {
+  transform: rotate(227deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--228deg {
+  transform: rotate(228deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--229deg {
+  transform: rotate(229deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--230deg {
+  transform: rotate(230deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--231deg {
+  transform: rotate(231deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--232deg {
+  transform: rotate(232deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--233deg {
+  transform: rotate(233deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--234deg {
+  transform: rotate(234deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--235deg {
+  transform: rotate(235deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--236deg {
+  transform: rotate(236deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--237deg {
+  transform: rotate(237deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--238deg {
+  transform: rotate(238deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--239deg {
+  transform: rotate(239deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--240deg {
+  transform: rotate(240deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--241deg {
+  transform: rotate(241deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--242deg {
+  transform: rotate(242deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--243deg {
+  transform: rotate(243deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--244deg {
+  transform: rotate(244deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--245deg {
+  transform: rotate(245deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--246deg {
+  transform: rotate(246deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--247deg {
+  transform: rotate(247deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--248deg {
+  transform: rotate(248deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--249deg {
+  transform: rotate(249deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--250deg {
+  transform: rotate(250deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--251deg {
+  transform: rotate(251deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--252deg {
+  transform: rotate(252deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--253deg {
+  transform: rotate(253deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--254deg {
+  transform: rotate(254deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--255deg {
+  transform: rotate(255deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--256deg {
+  transform: rotate(256deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--257deg {
+  transform: rotate(257deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--258deg {
+  transform: rotate(258deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--259deg {
+  transform: rotate(259deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--260deg {
+  transform: rotate(260deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--261deg {
+  transform: rotate(261deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--262deg {
+  transform: rotate(262deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--263deg {
+  transform: rotate(263deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--264deg {
+  transform: rotate(264deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--265deg {
+  transform: rotate(265deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--266deg {
+  transform: rotate(266deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--267deg {
+  transform: rotate(267deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--268deg {
+  transform: rotate(268deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--269deg {
+  transform: rotate(269deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--270deg {
+  transform: rotate(270deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--271deg {
+  transform: rotate(271deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--272deg {
+  transform: rotate(272deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--273deg {
+  transform: rotate(273deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--274deg {
+  transform: rotate(274deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--275deg {
+  transform: rotate(275deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--276deg {
+  transform: rotate(276deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--277deg {
+  transform: rotate(277deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--278deg {
+  transform: rotate(278deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--279deg {
+  transform: rotate(279deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--280deg {
+  transform: rotate(280deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--281deg {
+  transform: rotate(281deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--282deg {
+  transform: rotate(282deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--283deg {
+  transform: rotate(283deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--284deg {
+  transform: rotate(284deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--285deg {
+  transform: rotate(285deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--286deg {
+  transform: rotate(286deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--287deg {
+  transform: rotate(287deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--288deg {
+  transform: rotate(288deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--289deg {
+  transform: rotate(289deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--290deg {
+  transform: rotate(290deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--291deg {
+  transform: rotate(291deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--292deg {
+  transform: rotate(292deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--293deg {
+  transform: rotate(293deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--294deg {
+  transform: rotate(294deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--295deg {
+  transform: rotate(295deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--296deg {
+  transform: rotate(296deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--297deg {
+  transform: rotate(297deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--298deg {
+  transform: rotate(298deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--299deg {
+  transform: rotate(299deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--300deg {
+  transform: rotate(300deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--301deg {
+  transform: rotate(301deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--302deg {
+  transform: rotate(302deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--303deg {
+  transform: rotate(303deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--304deg {
+  transform: rotate(304deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--305deg {
+  transform: rotate(305deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--306deg {
+  transform: rotate(306deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--307deg {
+  transform: rotate(307deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--308deg {
+  transform: rotate(308deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--309deg {
+  transform: rotate(309deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--310deg {
+  transform: rotate(310deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--311deg {
+  transform: rotate(311deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--312deg {
+  transform: rotate(312deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--313deg {
+  transform: rotate(313deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--314deg {
+  transform: rotate(314deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--315deg {
+  transform: rotate(315deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--316deg {
+  transform: rotate(316deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--317deg {
+  transform: rotate(317deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--318deg {
+  transform: rotate(318deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--319deg {
+  transform: rotate(319deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--320deg {
+  transform: rotate(320deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--321deg {
+  transform: rotate(321deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--322deg {
+  transform: rotate(322deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--323deg {
+  transform: rotate(323deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--324deg {
+  transform: rotate(324deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--325deg {
+  transform: rotate(325deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--326deg {
+  transform: rotate(326deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--327deg {
+  transform: rotate(327deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--328deg {
+  transform: rotate(328deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--329deg {
+  transform: rotate(329deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--330deg {
+  transform: rotate(330deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--331deg {
+  transform: rotate(331deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--332deg {
+  transform: rotate(332deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--333deg {
+  transform: rotate(333deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--334deg {
+  transform: rotate(334deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--335deg {
+  transform: rotate(335deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--336deg {
+  transform: rotate(336deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--337deg {
+  transform: rotate(337deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--338deg {
+  transform: rotate(338deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--339deg {
+  transform: rotate(339deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--340deg {
+  transform: rotate(340deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--341deg {
+  transform: rotate(341deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--342deg {
+  transform: rotate(342deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--343deg {
+  transform: rotate(343deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--344deg {
+  transform: rotate(344deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--345deg {
+  transform: rotate(345deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--346deg {
+  transform: rotate(346deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--347deg {
+  transform: rotate(347deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--348deg {
+  transform: rotate(348deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--349deg {
+  transform: rotate(349deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--350deg {
+  transform: rotate(350deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--351deg {
+  transform: rotate(351deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--352deg {
+  transform: rotate(352deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--353deg {
+  transform: rotate(353deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--354deg {
+  transform: rotate(354deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--355deg {
+  transform: rotate(355deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--356deg {
+  transform: rotate(356deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--357deg {
+  transform: rotate(357deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--358deg {
+  transform: rotate(358deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--359deg {
+  transform: rotate(359deg);
+}
+
+.circle-clock__pointer.circle-clock__pointer--360deg {
+  transform: rotate(360deg);
+}
+
+/* // 각도 미리 생성 */
